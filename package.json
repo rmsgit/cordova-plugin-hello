@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "0.1.1",
+  "description": "",
+  "cordova": {
+    "id": "hello",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
